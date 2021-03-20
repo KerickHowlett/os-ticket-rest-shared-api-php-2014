@@ -8,7 +8,7 @@ For security, it utilized an API key (not included for obvious reasons) as well 
 
 This API was developed in a [WAMP](https://www.wampserver.com/en/) dev environment, which also came with PhpMyAdmin to host a database schema.
 
-The only file with any actual code in it is [vpua_api.php](https://github.com/KerickHowlett/osticket_api/blob/master/vpua_api.php). The other files are only there for posterity sake.
+The only file with any actual code in it is [vpua_api.php](https://github.com/KerickHowlett/my-first-professional-program/blob/master/vpua_api.php). The other files are only there for posterity sake.
 
 ## Disclaimer
 Since this API wasn't used to access any sensitive information, I received explicit permission from the [University of Louisville](https://louisville.edu/)'s Office of Advancement to use this as a part of my portfolio.
