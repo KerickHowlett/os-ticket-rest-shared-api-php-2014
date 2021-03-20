@@ -1,4 +1,4 @@
-# osticket_api
+# My First Professional Program.
 
 This was the first bit of code I've ever programmed professionally, so please excuse the lack of adherence to best practices and design patterns.
 
