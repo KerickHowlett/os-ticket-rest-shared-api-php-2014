@@ -2,7 +2,7 @@
 
 This was the first bit of code I've ever programmed professionally, so please excuse the lack of adherence to best practices and design patterns.
 
-This RESTful / Shared API was engineered back in the fall semester of 2014 during my internship, and it performed basic CRUD operations to interface with an open source ticketing application called [OSTICKET](https://osticket.com/). Coded with PHP, it used the cURL extension to send out API REST calls containing JSON data objects to a MySQL database for basic CRUD operations.
+This RESTful API was engineered back in the fall semester of 2014 during my internship, and it performed basic CRUD operations to interface with an open source ticketing application called [OSTICKET](https://osticket.com/). Coded with PHP, it used the cURL extension to send out API REST calls containing JSON data objects to a MySQL database for basic CRUD operations.
 
 For security, it utilized an API key (not included for obvious reasons) as well as an LDAP extension to perform basic authentication.
 
